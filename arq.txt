@@ -1,0 +1,1 @@
+1 - add uma linha a um arquivo de texto
